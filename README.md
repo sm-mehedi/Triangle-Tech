@@ -1,4 +1,4 @@
-# [Triangle Tech GitHub Documentation](https://sm-mehedi.github.io/Triangle-Tech-website/index.html)
+# Link -https://sm-mehedi.github.io/Triangle-Tech-website/index.html)
 
 ## Introduction
 Welcome to the Triangle Tech GitHub documentation! This repository contains the source code for Triangle Tech's website. Triangle Tech is a channel dedicated to sharing insights and solutions in the field of Computer Science.
