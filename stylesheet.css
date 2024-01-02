@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+#Container01{
+    text-align: center;
+   
+    height: 600px;
+
+}
+#about{
+    width: 200px;
+}
+
+#image01{
+    height: 200px;
+    
+}
+
+h1{
+    color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+#p1{
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+#h21{
+    color: greenyellow;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

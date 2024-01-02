@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+h1{
+    color: rgba(211, 202, 19, 0.938);
+    font-size: 100px;
+    text-align: center;
+}
+p{
+    color: aliceblue;
+}
+#Hello{
+    width: 50px;
+}
+#Youtube {
+    height: 100px;
+    width: 100px;
+    margin: 0 auto; 
+    display: block;
+}
+
+h3{
+    text-align: center;
+    color: orange;
+}
+#Back{
+    width: 50px;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+#P1{
+    font-size: 50px;
+}

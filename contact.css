@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+ #h11{
+        color: rgba(211, 202, 19, 0.938);
+        font-size: 100px;
+        text-align: center;
+    }
+#Email{
+    width: 100px;
+}
+.email{
+    color: rgba(211, 202, 19, 0.938);
+        font-size: 20px;
+        text-align: center
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+#Back{
+    width: 50px;
+    
+}
